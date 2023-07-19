@@ -1,3 +1,3 @@
-# fan_shirt
+# Fan Shirt Trial Project
 
-first adding a readme file in this repo
+This project is for the Fan Shirt 3D that I am trying to develop and deploy.
