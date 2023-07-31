@@ -1,4 +1,5 @@
 # Fan Shirt Trial Project
+Used Threejs for this Project.
 
 This is a project for 3D T-Shirt Prototyping. Learnings from JavaScript Mastery.
 
